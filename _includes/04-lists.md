@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. This is an example of list.
+2. Another example
+3. One more
